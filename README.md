@@ -2,6 +2,8 @@
 
 > Transform conversations into actionable insights.
 
+🌐 Live Demo: https://recap-ai-k74hudzrgfjpezfxqcrs4n.streamlit.app/
+
 Recap AI is a **multilingual conversational intelligence platform** that enables users to analyze YouTube videos and audio recordings through AI-powered transcription, summarization, insight extraction, and Retrieval-Augmented Generation (RAG).
 
 The system converts unstructured spoken content into structured knowledge by generating transcripts, summaries, action items, key decisions, open questions, and interactive Q&A experiences.
